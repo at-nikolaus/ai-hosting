@@ -21,3 +21,9 @@ Sum up
   - Auto Workload Handling based on your Caps Limits and Ruls or Infinity Scale
 - AbStracting Away Hosting Needs and Provider Admin Panels as also offer you by default the best solutions for you individual needs based on AI you don't need a Amazon Manager or Cloud Manager Employee Any More and his assets like Solution Architects.
 - We Offer You Free Solution Architecting Based on your needs we define with you the right Providers and make sure your compilance and all is as needed including storing data only in countrys that you choose and so on.
+
+## A Total New Way to Develop Software
+- Create Your Software Local using our stealify-fs enables you to directly push the assets to Stealify/hosting and publish them with access rights managment.
+- stealify-fs allows working with a local JSON Database with less Analyze methods but enought to get you up and running.
+  - if you need full flagged local stealify-fs then you can simply choose the couchbase backend and your done :)
+  - the Stealify fs json simply needs to get imported complet as it is into couchbase and then you switch the backend
